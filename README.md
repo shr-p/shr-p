@@ -3,7 +3,6 @@
 
 
 ### 💫 About Me:
-🔭  I’m looking for Software Developer Position<br>
 ⚡ Passionate software engineer with a strong problem-solving and analytical skills. Experienced in a variety of programming languages and technologies, including Java, Python, and React. Proven ability to work independently and as part of a team to solve complex problems.
 
 ---
